@@ -1,0 +1,16 @@
+PODS:
+  - Disintegrate (0.2.0)
+
+DEPENDENCIES:
+  - Disintegrate
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Disintegrate
+
+SPEC CHECKSUMS:
+  Disintegrate: 59390cbca1c6fed3f8baa39619300ee36571f0e0
+
+PODFILE CHECKSUM: ec51f9cd5d57781e24d8920517b9391ab9f010c8
+
+COCOAPODS: 1.5.3
